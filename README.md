@@ -13,7 +13,7 @@ A basic calculator application that performs:
 - Division (with zero-division handling)
 
 🔗 **View Code:**  
-[Click here to view Calculator Code](https://https://github.com/JesciArul/Intern_Orbit_PythonProgramming/blob/main/Python/SimpleCalculator.py)
+[Click here to view Calculator Code](https://github.com/JesciArul/Intern_Orbit_PythonProgramming/blob/main/Python/SimpleCalculator.py)
 
 **Concepts Used:**  
 `Input/Output`, `Conditional Statements`, `Error Handling`
@@ -28,7 +28,7 @@ A command-line game where:
 - Score tracking is implemented  
 
 🔗 **View Code:**  
-[Click here to view Rock-Paper-Scissors Code](https://https://github.com/JesciArul/Intern_Orbit_PythonProgramming/blob/main/Python/RockPaperScissors.py)
+[Click here to view Rock-Paper-Scissors Code](https://github.com/JesciArul/Intern_Orbit_PythonProgramming/blob/main/Python/RockPaperScissors.py)
 
 **Concepts Used:**  
 `Loops`, `Random Module`, `Conditional Logic`
@@ -43,7 +43,7 @@ A simple CLI-based to-do list manager that allows users to:
 - Delete tasks  
 
 🔗 **View Code:**  
-[Click here to view To-Do List Code](https://https://github.com/JesciArul/Intern_Orbit_PythonProgramming/blob/main/Python/ToDoList.py)
+[Click here to view To-Do List Code](https://github.com/JesciArul/Intern_Orbit_PythonProgramming/blob/main/Python/ToDoList.py)
 
 **Concepts Used:**  
 `Lists`, `Loops`, `User Interaction`
