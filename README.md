@@ -12,6 +12,9 @@ A basic calculator application that performs:
 - Multiplication  
 - Division (with zero-division handling)
 
+🔗 **View Code:**  
+[Click here to view Calculator Code](https://github.com/your-username/your-repository-name/blob/main/calculator.py)
+
 **Concepts Used:**  
 `Input/Output`, `Conditional Statements`, `Error Handling`
 
@@ -24,6 +27,9 @@ A command-line game where:
 - The winner is decided based on game rules  
 - Score tracking is implemented  
 
+🔗 **View Code:**  
+[Click here to view Rock-Paper-Scissors Code](https://github.com/your-username/your-repository-name/blob/main/rock_paper_scissors.py)
+
 **Concepts Used:**  
 `Loops`, `Random Module`, `Conditional Logic`
 
@@ -35,6 +41,9 @@ A simple CLI-based to-do list manager that allows users to:
 - View tasks  
 - Update tasks  
 - Delete tasks  
+
+🔗 **View Code:**  
+[Click here to view To-Do List Code](https://github.com/your-username/your-repository-name/blob/main/todo_list.py)
 
 **Concepts Used:**  
 `Lists`, `Loops`, `User Interaction`
